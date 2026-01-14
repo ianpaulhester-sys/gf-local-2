@@ -9,12 +9,30 @@
     "lng": -78.6597,
     "gfOptions": "100% Dedicated GF",
     "menuItems": [
-      {"name": "GF Bread Loaf", "price": 8.99},
-      {"name": "Pastries", "price": 4.50},
-      {"name": "Mac & Cheese", "price": 12.99},
-      {"name": "Chicken Pot Pie", "price": 14.99},
-      {"name": "Chicken Tenders", "price": 11.99},
-      {"name": "Biscuits (4 pack)", "price": 6.99}
+      {
+        "name": "GF Bread Loaf",
+        "price": 8.99
+      },
+      {
+        "name": "Pastries",
+        "price": 4.5
+      },
+      {
+        "name": "Mac & Cheese",
+        "price": 12.99
+      },
+      {
+        "name": "Chicken Pot Pie",
+        "price": 14.99
+      },
+      {
+        "name": "Chicken Tenders",
+        "price": 11.99
+      },
+      {
+        "name": "Biscuits (4 pack)",
+        "price": 6.99
+      }
     ],
     "doordash": true,
     "notes": "Certified 100% gluten-free bakery - one of the only ones in NC. Celiac-safe!",
@@ -31,11 +49,26 @@
     "lng": -78.7811,
     "gfOptions": "100% GF Menu",
     "menuItems": [
-      {"name": "Bibimbap Bowl", "price": 10.49},
-      {"name": "Purple Rice Bowl", "price": 10.49},
-      {"name": "GF Noodles Bowl", "price": 10.99},
-      {"name": "Tofu Bowl", "price": 9.99},
-      {"name": "GF Cookies", "price": 2.49}
+      {
+        "name": "Bibimbap Bowl",
+        "price": 10.49
+      },
+      {
+        "name": "Purple Rice Bowl",
+        "price": 10.49
+      },
+      {
+        "name": "GF Noodles Bowl",
+        "price": 10.99
+      },
+      {
+        "name": "Tofu Bowl",
+        "price": 9.99
+      },
+      {
+        "name": "GF Cookies",
+        "price": 2.49
+      }
     ],
     "doordash": true,
     "notes": "Fully gluten-free restaurant! Rare find for safe Asian food.",
@@ -52,11 +85,26 @@
     "lng": -78.8789,
     "gfOptions": "Dedicated GF Kitchen",
     "menuItems": [
-      {"name": "Sesame Chicken", "price": 14.99},
-      {"name": "Thai Curry", "price": 13.99},
-      {"name": "Chicken Enchiladas", "price": 15.99},
-      {"name": "Fried Rice", "price": 12.99},
-      {"name": "Wonton Soup", "price": 8.99}
+      {
+        "name": "Sesame Chicken",
+        "price": 14.99
+      },
+      {
+        "name": "Thai Curry",
+        "price": 13.99
+      },
+      {
+        "name": "Chicken Enchiladas",
+        "price": 15.99
+      },
+      {
+        "name": "Fried Rice",
+        "price": 12.99
+      },
+      {
+        "name": "Wonton Soup",
+        "price": 8.99
+      }
     ],
     "doordash": true,
     "notes": "Owner has celiac - double fryers and grills for GF. Excellent precautions!",
@@ -73,11 +121,26 @@
     "lng": -78.7058,
     "gfOptions": "Naturally GF Menu",
     "menuItems": [
-      {"name": "Reina Pepiada Arepa", "price": 11.99},
-      {"name": "Pabellon Arepa", "price": 12.99},
-      {"name": "Rice Bowl", "price": 13.99},
-      {"name": "Garden Salad", "price": 8.99},
-      {"name": "Tres Leches Cake", "price": 7.99}
+      {
+        "name": "Reina Pepiada Arepa",
+        "price": 11.99
+      },
+      {
+        "name": "Pabellon Arepa",
+        "price": 12.99
+      },
+      {
+        "name": "Rice Bowl",
+        "price": 13.99
+      },
+      {
+        "name": "Garden Salad",
+        "price": 8.99
+      },
+      {
+        "name": "Tres Leches Cake",
+        "price": 7.99
+      }
     ],
     "doordash": true,
     "notes": "Arepas are naturally gluten-free (corn-based). Great celiac-friendly option.",
@@ -94,10 +157,22 @@
     "lng": -78.6414,
     "gfOptions": "Extensive GF Menu",
     "menuItems": [
-      {"name": "Sunday Brunch Buffet", "price": 30.00},
-      {"name": "Flourless Chocolate Cake", "price": 12.00},
-      {"name": "Roasted Seasonal Veggies", "price": 9.00},
-      {"name": "Bacon & Eggs Plate", "price": 16.00}
+      {
+        "name": "Sunday Brunch Buffet",
+        "price": 30
+      },
+      {
+        "name": "Flourless Chocolate Cake",
+        "price": 12
+      },
+      {
+        "name": "Roasted Seasonal Veggies",
+        "price": 9
+      },
+      {
+        "name": "Bacon & Eggs Plate",
+        "price": 16
+      }
     ],
     "doordash": false,
     "notes": "Chef's wife has celiac - staff goes above and beyond. Sunday brunch is excellent!",
@@ -114,11 +189,26 @@
     "lng": -78.6356,
     "gfOptions": "GF Menu Marked",
     "menuItems": [
-      {"name": "Crispy Rice Lettuce Wraps", "price": 14.00},
-      {"name": "Coconut Curry Soup", "price": 16.00},
-      {"name": "Khao Piek Noodle Soup", "price": 18.00},
-      {"name": "Purple Sticky Rice Dessert", "price": 9.00},
-      {"name": "Laotian Sausage", "price": 13.00}
+      {
+        "name": "Crispy Rice Lettuce Wraps",
+        "price": 14
+      },
+      {
+        "name": "Coconut Curry Soup",
+        "price": 16
+      },
+      {
+        "name": "Khao Piek Noodle Soup",
+        "price": 18
+      },
+      {
+        "name": "Purple Sticky Rice Dessert",
+        "price": 9
+      },
+      {
+        "name": "Laotian Sausage",
+        "price": 13
+      }
     ],
     "doordash": true,
     "notes": "Menu clearly marked GF. Free GF shrimp chips as appetizer. One of first Laotian restaurants in US.",
@@ -135,11 +225,26 @@
     "lng": -78.6247,
     "gfOptions": "Mostly GF Menu",
     "menuItems": [
-      {"name": "Black Bean Quesadilla (GF)", "price": 14.00},
-      {"name": "Buffalo Chicken Wrap (GF)", "price": 15.00},
-      {"name": "Cast Iron Cornbread (GF)", "price": 6.00},
-      {"name": "Mac & Cheese (GF)", "price": 8.00},
-      {"name": "Smoked Potatoes (GF)", "price": 7.00}
+      {
+        "name": "Black Bean Quesadilla (GF)",
+        "price": 14
+      },
+      {
+        "name": "Buffalo Chicken Wrap (GF)",
+        "price": 15
+      },
+      {
+        "name": "Cast Iron Cornbread (GF)",
+        "price": 6
+      },
+      {
+        "name": "Mac & Cheese (GF)",
+        "price": 8
+      },
+      {
+        "name": "Smoked Potatoes (GF)",
+        "price": 7
+      }
     ],
     "doordash": true,
     "notes": "Almost everything can be made GF. Labels on all items. Vegetarian/vegan focused.",
@@ -156,11 +261,26 @@
     "lng": -78.6428,
     "gfOptions": "Extensive GF Menu",
     "menuItems": [
-      {"name": "Ancient Grains Bowl", "price": 17.50},
-      {"name": "Herb Crusted Salmon", "price": 29.00},
-      {"name": "GF Pizza Margherita", "price": 18.00},
-      {"name": "Grass-Fed Burger (no bun)", "price": 19.50},
-      {"name": "Seasonal Salad", "price": 14.00}
+      {
+        "name": "Ancient Grains Bowl",
+        "price": 17.5
+      },
+      {
+        "name": "Herb Crusted Salmon",
+        "price": 29
+      },
+      {
+        "name": "GF Pizza Margherita",
+        "price": 18
+      },
+      {
+        "name": "Grass-Fed Burger (no bun)",
+        "price": 19.5
+      },
+      {
+        "name": "Seasonal Salad",
+        "price": 14
+      }
     ],
     "doordash": true,
     "notes": "Many vegetarian, vegan, and GF options. Staff attentive to allergies. Inform server of needs.",
@@ -177,11 +297,26 @@
     "lng": -78.6614,
     "gfOptions": "GF Menu Available",
     "menuItems": [
-      {"name": "GF Tacos (3)", "price": 16.00},
-      {"name": "Baja Bowl", "price": 18.00},
-      {"name": "Roasted Beets", "price": 9.00},
-      {"name": "Black Beans", "price": 6.00},
-      {"name": "Wood-Fired Salmon", "price": 26.00}
+      {
+        "name": "GF Tacos (3)",
+        "price": 16
+      },
+      {
+        "name": "Baja Bowl",
+        "price": 18
+      },
+      {
+        "name": "Roasted Beets",
+        "price": 9
+      },
+      {
+        "name": "Black Beans",
+        "price": 6
+      },
+      {
+        "name": "Wood-Fired Salmon",
+        "price": 26
+      }
     ],
     "doordash": true,
     "notes": "Large GF menu clearly marked. Fries in dedicated GF fryer. Staff takes allergies seriously.",
@@ -198,10 +333,22 @@
     "lng": -78.6526,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "GF Chicken & Waffles", "price": 18.00},
-      {"name": "GF Pancakes", "price": 14.00},
-      {"name": "Seasonal Fish", "price": 28.00},
-      {"name": "Garden Salad", "price": 12.00}
+      {
+        "name": "GF Chicken & Waffles",
+        "price": 18
+      },
+      {
+        "name": "GF Pancakes",
+        "price": 14
+      },
+      {
+        "name": "Seasonal Fish",
+        "price": 28
+      },
+      {
+        "name": "Garden Salad",
+        "price": 12
+      }
     ],
     "doordash": false,
     "notes": "Long-standing Raleigh favorite. GF waffles and pancakes available.",
@@ -218,11 +365,26 @@
     "lng": -78.7128,
     "gfOptions": "GF Pasta & More",
     "menuItems": [
-      {"name": "GF Pasta Marinara", "price": 16.00},
-      {"name": "GF Pasta Alfredo", "price": 18.00},
-      {"name": "GF Focaccia", "price": 8.00},
-      {"name": "Chicken Parmesan (GF pasta)", "price": 24.00},
-      {"name": "Tiramisu", "price": 10.00}
+      {
+        "name": "GF Pasta Marinara",
+        "price": 16
+      },
+      {
+        "name": "GF Pasta Alfredo",
+        "price": 18
+      },
+      {
+        "name": "GF Focaccia",
+        "price": 8
+      },
+      {
+        "name": "Chicken Parmesan (GF pasta)",
+        "price": 24
+      },
+      {
+        "name": "Tiramisu",
+        "price": 10
+      }
     ],
     "doordash": true,
     "notes": "GF pasta and bread options. Ask about specific dishes.",
@@ -239,11 +401,26 @@
     "lng": -78.6388,
     "gfOptions": "Dedicated GF Fryer",
     "menuItems": [
-      {"name": "Fried Chicken (2 pc)", "price": 14.00},
-      {"name": "Fried Chicken (4 pc)", "price": 22.00},
-      {"name": "GF Fries", "price": 6.00},
-      {"name": "Collard Greens", "price": 5.00},
-      {"name": "Honey Drizzle", "price": 2.00}
+      {
+        "name": "Fried Chicken (2 pc)",
+        "price": 14
+      },
+      {
+        "name": "Fried Chicken (4 pc)",
+        "price": 22
+      },
+      {
+        "name": "GF Fries",
+        "price": 6
+      },
+      {
+        "name": "Collard Greens",
+        "price": 5
+      },
+      {
+        "name": "Honey Drizzle",
+        "price": 2
+      }
     ],
     "doordash": true,
     "notes": "Dedicated fryer for all GF fried items (fries, chips, tots). Downtown Raleigh.",
@@ -260,10 +437,22 @@
     "lng": -78.6391,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Street Tacos (corn, 3)", "price": 14.00},
-      {"name": "Chicken Enchiladas", "price": 17.00},
-      {"name": "Burrito Bowl", "price": 16.00},
-      {"name": "Guacamole & Chips", "price": 12.00}
+      {
+        "name": "Street Tacos (corn, 3)",
+        "price": 14
+      },
+      {
+        "name": "Chicken Enchiladas",
+        "price": 17
+      },
+      {
+        "name": "Burrito Bowl",
+        "price": 16
+      },
+      {
+        "name": "Guacamole & Chips",
+        "price": 12
+      }
     ],
     "doordash": true,
     "notes": "Corn tortillas available. Ask about specific prep for celiac safety.",
@@ -280,11 +469,26 @@
     "lng": -78.6439,
     "gfOptions": "GF Items Marked",
     "menuItems": [
-      {"name": "Sushi Rolls (various)", "price": 14.00},
-      {"name": "GF Bun Burger", "price": 17.00},
-      {"name": "Poke Rice Bowl", "price": 18.00},
-      {"name": "Edamame", "price": 7.00},
-      {"name": "Seaweed Salad", "price": 8.00}
+      {
+        "name": "Sushi Rolls (various)",
+        "price": 14
+      },
+      {
+        "name": "GF Bun Burger",
+        "price": 17
+      },
+      {
+        "name": "Poke Rice Bowl",
+        "price": 18
+      },
+      {
+        "name": "Edamame",
+        "price": 7
+      },
+      {
+        "name": "Seaweed Salad",
+        "price": 8
+      }
     ],
     "doordash": true,
     "notes": "GF items clearly marked on menu. Unique sushi-burger fusion concept.",
@@ -301,11 +505,26 @@
     "lng": -78.7642,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Street Tacos (corn, 3)", "price": 13.00},
-      {"name": "Guacamole", "price": 10.00},
-      {"name": "Rice & Beans", "price": 6.00},
-      {"name": "Chicken Fajitas", "price": 19.00},
-      {"name": "Steak Fajitas", "price": 22.00}
+      {
+        "name": "Street Tacos (corn, 3)",
+        "price": 13
+      },
+      {
+        "name": "Guacamole",
+        "price": 10
+      },
+      {
+        "name": "Rice & Beans",
+        "price": 6
+      },
+      {
+        "name": "Chicken Fajitas",
+        "price": 19
+      },
+      {
+        "name": "Steak Fajitas",
+        "price": 22
+      }
     ],
     "doordash": true,
     "notes": "Chips in dedicated fryer. Corn tortillas available. Ask server about GF options.",
@@ -322,11 +541,26 @@
     "lng": -78.6578,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Street Tacos (corn, 3)", "price": 13.00},
-      {"name": "Guacamole", "price": 10.00},
-      {"name": "Rice & Beans", "price": 6.00},
-      {"name": "Chicken Fajitas", "price": 19.00},
-      {"name": "Steak Fajitas", "price": 22.00}
+      {
+        "name": "Street Tacos (corn, 3)",
+        "price": 13
+      },
+      {
+        "name": "Guacamole",
+        "price": 10
+      },
+      {
+        "name": "Rice & Beans",
+        "price": 6
+      },
+      {
+        "name": "Chicken Fajitas",
+        "price": 19
+      },
+      {
+        "name": "Steak Fajitas",
+        "price": 22
+      }
     ],
     "doordash": true,
     "notes": "Chips in dedicated fryer. Corn tortillas available. Ask server about GF options.",
@@ -343,10 +577,22 @@
     "lng": -78.8214,
     "gfOptions": "GF Crust Available",
     "menuItems": [
-      {"name": "GF Cheese Pizza (10\")", "price": 15.00},
-      {"name": "GF Pepperoni Pizza (10\")", "price": 17.00},
-      {"name": "GF Veggie Pizza (10\")", "price": 18.00},
-      {"name": "House Salad", "price": 9.00}
+      {
+        "name": "GF Cheese Pizza (10\")",
+        "price": 15
+      },
+      {
+        "name": "GF Pepperoni Pizza (10\")",
+        "price": 17
+      },
+      {
+        "name": "GF Veggie Pizza (10\")",
+        "price": 18
+      },
+      {
+        "name": "House Salad",
+        "price": 9
+      }
     ],
     "doordash": true,
     "notes": "GF crust prepared in separate area with certified procedures. Small pizza only.",
@@ -363,10 +609,22 @@
     "lng": -78.6397,
     "gfOptions": "Mostly GF Menu",
     "menuItems": [
-      {"name": "Green Smoothie", "price": 10.00},
-      {"name": "Acai Bowl", "price": 14.00},
-      {"name": "Avocado Toast (GF bread)", "price": 12.00},
-      {"name": "Poke Bowl", "price": 16.00}
+      {
+        "name": "Green Smoothie",
+        "price": 10
+      },
+      {
+        "name": "Acai Bowl",
+        "price": 14
+      },
+      {
+        "name": "Avocado Toast (GF bread)",
+        "price": 12
+      },
+      {
+        "name": "Poke Bowl",
+        "price": 16
+      }
     ],
     "doordash": true,
     "notes": "Health-focused with many naturally GF options. Downtown location.",
@@ -383,10 +641,22 @@
     "lng": -78.6156,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Smoothie Bowl", "price": 13.00},
-      {"name": "GF Grilled Cheese", "price": 11.00},
-      {"name": "Avocado Toast", "price": 10.00},
-      {"name": "Fresh Pressed Juice", "price": 9.00}
+      {
+        "name": "Smoothie Bowl",
+        "price": 13
+      },
+      {
+        "name": "GF Grilled Cheese",
+        "price": 11
+      },
+      {
+        "name": "Avocado Toast",
+        "price": 10
+      },
+      {
+        "name": "Fresh Pressed Juice",
+        "price": 9
+      }
     ],
     "doordash": true,
     "notes": "Health-conscious menu with GF bread options available.",
@@ -403,10 +673,22 @@
     "lng": -78.8567,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Build Your Own Bowl", "price": 13.99},
-      {"name": "Signature Poke Bowl", "price": 14.99},
-      {"name": "Rice Bowl", "price": 12.99},
-      {"name": "GF Cookies", "price": 2.99}
+      {
+        "name": "Build Your Own Bowl",
+        "price": 13.99
+      },
+      {
+        "name": "Signature Poke Bowl",
+        "price": 14.99
+      },
+      {
+        "name": "Rice Bowl",
+        "price": 12.99
+      },
+      {
+        "name": "GF Cookies",
+        "price": 2.99
+      }
     ],
     "doordash": true,
     "notes": "Build-your-own bowl concept with many GF base options.",
@@ -423,10 +705,22 @@
     "lng": -78.7811,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Fried Chicken Plate", "price": 16.00},
-      {"name": "Ribeye Steak", "price": 32.00},
-      {"name": "GF Fries", "price": 6.00},
-      {"name": "House Salad", "price": 10.00}
+      {
+        "name": "Fried Chicken Plate",
+        "price": 16
+      },
+      {
+        "name": "Ribeye Steak",
+        "price": 32
+      },
+      {
+        "name": "GF Fries",
+        "price": 6
+      },
+      {
+        "name": "House Salad",
+        "price": 10
+      }
     ],
     "doordash": true,
     "notes": "Downtown Cary spot with GF options. Ask about dedicated fryer.",
@@ -443,11 +737,26 @@
     "lng": -78.7689,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Green Curry", "price": 15.00},
-      {"name": "Red Curry", "price": 15.00},
-      {"name": "Pad Thai (GF soy)", "price": 14.00},
-      {"name": "Basil Fried Rice", "price": 14.00},
-      {"name": "Tom Yum Soup", "price": 8.00}
+      {
+        "name": "Green Curry",
+        "price": 15
+      },
+      {
+        "name": "Red Curry",
+        "price": 15
+      },
+      {
+        "name": "Pad Thai (GF soy)",
+        "price": 14
+      },
+      {
+        "name": "Basil Fried Rice",
+        "price": 14
+      },
+      {
+        "name": "Tom Yum Soup",
+        "price": 8
+      }
     ],
     "doordash": true,
     "notes": "Highly rated for celiac safety. Staff knowledgeable about GF. Uses GF soy sauce on request.",
@@ -464,11 +773,26 @@
     "lng": -78.7797,
     "gfOptions": "Naturally GF Options",
     "menuItems": [
-      {"name": "Chicken Tandoori", "price": 16.00},
-      {"name": "Lamb Curry", "price": 18.00},
-      {"name": "Chicken Biryani", "price": 15.00},
-      {"name": "Seekh Kebab", "price": 14.00},
-      {"name": "Basmati Rice", "price": 4.00}
+      {
+        "name": "Chicken Tandoori",
+        "price": 16
+      },
+      {
+        "name": "Lamb Curry",
+        "price": 18
+      },
+      {
+        "name": "Chicken Biryani",
+        "price": 15
+      },
+      {
+        "name": "Seekh Kebab",
+        "price": 14
+      },
+      {
+        "name": "Basmati Rice",
+        "price": 4
+      }
     ],
     "doordash": true,
     "notes": "Most items naturally GF. Staff aware of dietary needs. Downtown Cary gem.",
@@ -485,11 +809,26 @@
     "lng": -78.7756,
     "gfOptions": "GF Bowls Available",
     "menuItems": [
-      {"name": "Chicken Bowl", "price": 10.75},
-      {"name": "Steak Bowl", "price": 11.75},
-      {"name": "Veggie Bowl", "price": 9.75},
-      {"name": "Guacamole", "price": 2.95},
-      {"name": "Chips", "price": 1.80}
+      {
+        "name": "Chicken Bowl",
+        "price": 10.75
+      },
+      {
+        "name": "Steak Bowl",
+        "price": 11.75
+      },
+      {
+        "name": "Veggie Bowl",
+        "price": 9.75
+      },
+      {
+        "name": "Guacamole",
+        "price": 2.95
+      },
+      {
+        "name": "Chips",
+        "price": 1.8
+      }
     ],
     "doordash": true,
     "notes": "GF Lifestyle Bowls available. Skip the tortilla for a safe bowl option.",
@@ -506,11 +845,26 @@
     "lng": -78.6678,
     "gfOptions": "GF Bowls Available",
     "menuItems": [
-      {"name": "Chicken Bowl", "price": 10.75},
-      {"name": "Steak Bowl", "price": 11.75},
-      {"name": "Carnitas Bowl", "price": 10.75},
-      {"name": "Sofritas Bowl", "price": 10.25},
-      {"name": "Chips & Guac", "price": 4.75}
+      {
+        "name": "Chicken Bowl",
+        "price": 10.75
+      },
+      {
+        "name": "Steak Bowl",
+        "price": 11.75
+      },
+      {
+        "name": "Carnitas Bowl",
+        "price": 10.75
+      },
+      {
+        "name": "Sofritas Bowl",
+        "price": 10.25
+      },
+      {
+        "name": "Chips & Guac",
+        "price": 4.75
+      }
     ],
     "doordash": true,
     "notes": "GF Lifestyle Bowls available. Good quick option near NC State.",
@@ -527,10 +881,22 @@
     "lng": -78.8312,
     "gfOptions": "GF Pastries Available",
     "menuItems": [
-      {"name": "GF Chocolate Chip Cookie", "price": 3.50},
-      {"name": "GF Blueberry Muffin", "price": 4.00},
-      {"name": "Avocado Toast", "price": 10.00},
-      {"name": "Latte", "price": 5.50}
+      {
+        "name": "GF Chocolate Chip Cookie",
+        "price": 3.5
+      },
+      {
+        "name": "GF Blueberry Muffin",
+        "price": 4
+      },
+      {
+        "name": "Avocado Toast",
+        "price": 10
+      },
+      {
+        "name": "Latte",
+        "price": 5.5
+      }
     ],
     "doordash": true,
     "notes": "GF baked goods available. Great coffee shop with food options.",
@@ -547,10 +913,22 @@
     "lng": -78.6378,
     "gfOptions": "GF Crepes Available",
     "menuItems": [
-      {"name": "GF Buckwheat Crepe (savory)", "price": 14.00},
-      {"name": "GF Buckwheat Crepe (sweet)", "price": 12.00},
-      {"name": "Cappuccino", "price": 5.00},
-      {"name": "Fresh Orange Juice", "price": 6.00}
+      {
+        "name": "GF Buckwheat Crepe (savory)",
+        "price": 14
+      },
+      {
+        "name": "GF Buckwheat Crepe (sweet)",
+        "price": 12
+      },
+      {
+        "name": "Cappuccino",
+        "price": 5
+      },
+      {
+        "name": "Fresh Orange Juice",
+        "price": 6
+      }
     ],
     "doordash": false,
     "notes": "GF buckwheat flour crepes available. European-style downtown cafe.",
@@ -567,10 +945,22 @@
     "lng": -78.6645,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Cheese Board", "price": 18.00},
-      {"name": "Charcuterie Board", "price": 22.00},
-      {"name": "House Salad", "price": 12.00},
-      {"name": "Glass of Wine", "price": 10.00}
+      {
+        "name": "Cheese Board",
+        "price": 18
+      },
+      {
+        "name": "Charcuterie Board",
+        "price": 22
+      },
+      {
+        "name": "House Salad",
+        "price": 12
+      },
+      {
+        "name": "Glass of Wine",
+        "price": 10
+      }
     ],
     "doordash": false,
     "notes": "Skip the bread on bruschetta. Boards and salads are great GF options.",
@@ -587,11 +977,26 @@
     "lng": -78.7812,
     "gfOptions": "GF Crust Available",
     "menuItems": [
-      {"name": "GF Margherita Pizza", "price": 16.00},
-      {"name": "GF BBQ Chicken Pizza", "price": 18.00},
-      {"name": "Caesar Salad", "price": 11.00},
-      {"name": "GF Penne Pasta", "price": 15.00},
-      {"name": "Wings", "price": 14.00}
+      {
+        "name": "GF Margherita Pizza",
+        "price": 16
+      },
+      {
+        "name": "GF BBQ Chicken Pizza",
+        "price": 18
+      },
+      {
+        "name": "Caesar Salad",
+        "price": 11
+      },
+      {
+        "name": "GF Penne Pasta",
+        "price": 15
+      },
+      {
+        "name": "Wings",
+        "price": 14
+      }
     ],
     "doordash": true,
     "notes": "GF crust available. Ask about preparation and cross-contamination procedures.",
@@ -608,10 +1013,22 @@
     "lng": -78.8234,
     "gfOptions": "GF Accommodations",
     "menuItems": [
-      {"name": "Tasting Menu (5 course)", "price": 145.00},
-      {"name": "Tasting Menu (7 course)", "price": 185.00},
-      {"name": "Wine Pairing", "price": 95.00},
-      {"name": "Seasonal A La Carte", "price": 45.00}
+      {
+        "name": "Tasting Menu (5 course)",
+        "price": 145
+      },
+      {
+        "name": "Tasting Menu (7 course)",
+        "price": 185
+      },
+      {
+        "name": "Wine Pairing",
+        "price": 95
+      },
+      {
+        "name": "Seasonal A La Carte",
+        "price": 45
+      }
     ],
     "doordash": false,
     "notes": "Upscale fine dining. Chef accommodates dietary needs with advance notice. Special occasion spot.",
@@ -624,16 +1041,34 @@
     "cuisine": "Sushi / Japanese",
     "address": "311 Holland St, Durham, NC 27701",
     "city": "Durham",
-    "lat": 35.9940,
+    "lat": 35.994,
     "lng": -78.9011,
     "gfOptions": "GF Menu Marked",
     "menuItems": [
-      {"name": "Lite Omakase", "price": 47.00},
-      {"name": "Grand Omakase", "price": 89.00},
-      {"name": "Salmon Roll (GF)", "price": 12.00},
-      {"name": "Futomaki (GF)", "price": 14.00},
-      {"name": "Nigiri Selection", "price": 18.00},
-      {"name": "Sashimi Platter", "price": 32.00}
+      {
+        "name": "Lite Omakase",
+        "price": 47
+      },
+      {
+        "name": "Grand Omakase",
+        "price": 89
+      },
+      {
+        "name": "Salmon Roll (GF)",
+        "price": 12
+      },
+      {
+        "name": "Futomaki (GF)",
+        "price": 14
+      },
+      {
+        "name": "Nigiri Selection",
+        "price": 18
+      },
+      {
+        "name": "Sashimi Platter",
+        "price": 32
+      }
     ],
     "doordash": true,
     "notes": "Top-rated sushi by Chef Michael Lee. GF soy sauce (tamari) used in kitchen. Staff changes gloves and preps GF orders separately. Menu marks GF items.",
@@ -650,11 +1085,26 @@
     "lng": -78.9578,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Sushi Burrito (GF)", "price": 14.99},
-      {"name": "Poke Bowl", "price": 13.99},
-      {"name": "Burrito Bowl", "price": 12.99},
-      {"name": "Signature Roll", "price": 11.99},
-      {"name": "Edamame", "price": 5.99}
+      {
+        "name": "Sushi Burrito (GF)",
+        "price": 14.99
+      },
+      {
+        "name": "Poke Bowl",
+        "price": 13.99
+      },
+      {
+        "name": "Burrito Bowl",
+        "price": 12.99
+      },
+      {
+        "name": "Signature Roll",
+        "price": 11.99
+      },
+      {
+        "name": "Edamame",
+        "price": 5.99
+      }
     ],
     "doordash": true,
     "notes": "Famous for giant sushi burritos! Celiac reviewers report excellent care. Tell them you're celiac and they take extra precautions.",
@@ -671,11 +1121,26 @@
     "lng": -78.9423,
     "gfOptions": "Mostly GF Menu",
     "menuItems": [
-      {"name": "Build Your Own Bowl", "price": 13.99},
-      {"name": "Signature Poke Bowl", "price": 14.99},
-      {"name": "Zucchini Noodle Base", "price": 2.00},
-      {"name": "Quinoa Base", "price": 2.00},
-      {"name": "Seaweed Salad", "price": 4.99}
+      {
+        "name": "Build Your Own Bowl",
+        "price": 13.99
+      },
+      {
+        "name": "Signature Poke Bowl",
+        "price": 14.99
+      },
+      {
+        "name": "Zucchini Noodle Base",
+        "price": 2
+      },
+      {
+        "name": "Quinoa Base",
+        "price": 2
+      },
+      {
+        "name": "Seaweed Salad",
+        "price": 4.99
+      }
     ],
     "doordash": true,
     "notes": "Most items naturally GF. Proteins marinated in GF tamari. Avoid eel sauce and fried toppings. Staff very knowledgeable.",
@@ -692,11 +1157,26 @@
     "lng": -78.9178,
     "gfOptions": "Mostly GF Menu",
     "menuItems": [
-      {"name": "Poke Bowl", "price": 13.99},
-      {"name": "Salad Base Bowl", "price": 12.99},
-      {"name": "White Rice Bowl", "price": 11.99},
-      {"name": "GF Nachos", "price": 10.99},
-      {"name": "Miso Soup", "price": 4.99}
+      {
+        "name": "Poke Bowl",
+        "price": 13.99
+      },
+      {
+        "name": "Salad Base Bowl",
+        "price": 12.99
+      },
+      {
+        "name": "White Rice Bowl",
+        "price": 11.99
+      },
+      {
+        "name": "GF Nachos",
+        "price": 10.99
+      },
+      {
+        "name": "Miso Soup",
+        "price": 4.99
+      }
     ],
     "doordash": true,
     "notes": "Second location near Duke. Same great GF options. Staff helpful with choosing safe toppings.",
@@ -713,11 +1193,26 @@
     "lng": -78.9456,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Sashimi Dinner", "price": 24.00},
-      {"name": "Nigiri Combo", "price": 22.00},
-      {"name": "California Roll", "price": 8.00},
-      {"name": "Spicy Tuna Roll", "price": 10.00},
-      {"name": "Edamame", "price": 5.00}
+      {
+        "name": "Sashimi Dinner",
+        "price": 24
+      },
+      {
+        "name": "Nigiri Combo",
+        "price": 22
+      },
+      {
+        "name": "California Roll",
+        "price": 8
+      },
+      {
+        "name": "Spicy Tuna Roll",
+        "price": 10
+      },
+      {
+        "name": "Edamame",
+        "price": 5
+      }
     ],
     "doordash": true,
     "notes": "Near Duke campus. Staff willing to help identify GF options. Ask for tamari instead of soy sauce.",
@@ -734,11 +1229,26 @@
     "lng": -78.9612,
     "gfOptions": "Separate GF Menu",
     "menuItems": [
-      {"name": "Pho (GF broth)", "price": 14.00},
-      {"name": "Banh Mi Bowl (no bread)", "price": 13.00},
-      {"name": "Sushi Rolls", "price": 12.00},
-      {"name": "Curry (GF)", "price": 15.00},
-      {"name": "Spring Rolls (GF)", "price": 8.00}
+      {
+        "name": "Pho (GF broth)",
+        "price": 14
+      },
+      {
+        "name": "Banh Mi Bowl (no bread)",
+        "price": 13
+      },
+      {
+        "name": "Sushi Rolls",
+        "price": 12
+      },
+      {
+        "name": "Curry (GF)",
+        "price": 15
+      },
+      {
+        "name": "Spring Rolls (GF)",
+        "price": 8
+      }
     ],
     "doordash": true,
     "notes": "Separate gluten-free menu available! Vietnamese-Japanese fusion. Great for mixed dietary needs.",
@@ -755,11 +1265,26 @@
     "lng": -78.9089,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Sashimi Platter", "price": 26.00},
-      {"name": "Hibachi Chicken (no sauce)", "price": 18.00},
-      {"name": "Hibachi Steak (no sauce)", "price": 24.00},
-      {"name": "Fried Rice (GF soy)", "price": 8.00},
-      {"name": "Nigiri (2 pc)", "price": 6.00}
+      {
+        "name": "Sashimi Platter",
+        "price": 26
+      },
+      {
+        "name": "Hibachi Chicken (no sauce)",
+        "price": 18
+      },
+      {
+        "name": "Hibachi Steak (no sauce)",
+        "price": 24
+      },
+      {
+        "name": "Fried Rice (GF soy)",
+        "price": 8
+      },
+      {
+        "name": "Nigiri (2 pc)",
+        "price": 6
+      }
     ],
     "doordash": true,
     "notes": "Has tamari available. Hibachi can be made GF without teriyaki sauce. Specify GF when ordering.",
@@ -776,11 +1301,26 @@
     "lng": -78.9401,
     "gfOptions": "GF Items Marked",
     "menuItems": [
-      {"name": "Sushi Combo", "price": 18.00},
-      {"name": "Sashimi Dinner", "price": 22.00},
-      {"name": "Rainbow Roll", "price": 14.00},
-      {"name": "Salmon Avocado Roll", "price": 10.00},
-      {"name": "Miso Soup", "price": 3.00}
+      {
+        "name": "Sushi Combo",
+        "price": 18
+      },
+      {
+        "name": "Sashimi Dinner",
+        "price": 22
+      },
+      {
+        "name": "Rainbow Roll",
+        "price": 14
+      },
+      {
+        "name": "Salmon Avocado Roll",
+        "price": 10
+      },
+      {
+        "name": "Miso Soup",
+        "price": 3
+      }
     ],
     "doordash": true,
     "notes": "GF items clearly marked on menu. Good value sushi with GF options. Ask about tamari.",
@@ -797,12 +1337,30 @@
     "lng": -78.7812,
     "gfOptions": "GF Menu Marked",
     "menuItems": [
-      {"name": "Lite Omakase", "price": 47.00},
-      {"name": "Grand Omakase", "price": 89.00},
-      {"name": "Sashimi Platter", "price": 34.00},
-      {"name": "Nigiri Selection", "price": 22.00},
-      {"name": "Chef's Special Roll", "price": 18.00},
-      {"name": "Miso Soup (GF)", "price": 4.00}
+      {
+        "name": "Lite Omakase",
+        "price": 47
+      },
+      {
+        "name": "Grand Omakase",
+        "price": 89
+      },
+      {
+        "name": "Sashimi Platter",
+        "price": 34
+      },
+      {
+        "name": "Nigiri Selection",
+        "price": 22
+      },
+      {
+        "name": "Chef's Special Roll",
+        "price": 18
+      },
+      {
+        "name": "Miso Soup (GF)",
+        "price": 4
+      }
     ],
     "doordash": true,
     "notes": "Even better than Durham location! Homemade tamari and two kinds of sushi rice. Chef checks each dish for celiac safety. OpenTable Top 100 in America.",
@@ -819,11 +1377,26 @@
     "lng": -78.8534,
     "gfOptions": "GF Items Marked",
     "menuItems": [
-      {"name": "GF Sushi Rolls (various)", "price": 14.00},
-      {"name": "Pad Thai (GF)", "price": 15.00},
-      {"name": "Fried Rice (GF soy)", "price": 13.00},
-      {"name": "Sashimi Dinner", "price": 24.00},
-      {"name": "Poke Bowl", "price": 16.00}
+      {
+        "name": "GF Sushi Rolls (various)",
+        "price": 14
+      },
+      {
+        "name": "Pad Thai (GF)",
+        "price": 15
+      },
+      {
+        "name": "Fried Rice (GF soy)",
+        "price": 13
+      },
+      {
+        "name": "Sashimi Dinner",
+        "price": 24
+      },
+      {
+        "name": "Poke Bowl",
+        "price": 16
+      }
     ],
     "doordash": true,
     "notes": "20+ years serving the Triangle. Menu clearly marks GF items. 5-6 GF sushi rolls. Tamari available. Family-owned.",
@@ -840,11 +1413,26 @@
     "lng": -78.7698,
     "gfOptions": "GF Items Marked",
     "menuItems": [
-      {"name": "Sashimi Combo", "price": 22.00},
-      {"name": "California Roll", "price": 8.00},
-      {"name": "Pad Thai (GF)", "price": 14.00},
-      {"name": "Fried Rice (GF)", "price": 12.00},
-      {"name": "Miso Soup", "price": 4.00}
+      {
+        "name": "Sashimi Combo",
+        "price": 22
+      },
+      {
+        "name": "California Roll",
+        "price": 8
+      },
+      {
+        "name": "Pad Thai (GF)",
+        "price": 14
+      },
+      {
+        "name": "Fried Rice (GF)",
+        "price": 12
+      },
+      {
+        "name": "Miso Soup",
+        "price": 4
+      }
     ],
     "doordash": true,
     "notes": "GF items clearly marked on menu - rare for sushi restaurants! Servers flag GF orders and bring tamari automatically.",
@@ -861,11 +1449,26 @@
     "lng": -78.7856,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Lunch Special", "price": 12.00},
-      {"name": "Sushi Combo", "price": 18.00},
-      {"name": "Sashimi Platter", "price": 24.00},
-      {"name": "Rainbow Roll", "price": 14.00},
-      {"name": "Edamame", "price": 5.00}
+      {
+        "name": "Lunch Special",
+        "price": 12
+      },
+      {
+        "name": "Sushi Combo",
+        "price": 18
+      },
+      {
+        "name": "Sashimi Platter",
+        "price": 24
+      },
+      {
+        "name": "Rainbow Roll",
+        "price": 14
+      },
+      {
+        "name": "Edamame",
+        "price": 5
+      }
     ],
     "doordash": true,
     "notes": "Great lunch specials. Many sushi rolls can be made GF. San-J tamari available on request.",
@@ -882,11 +1485,26 @@
     "lng": -78.7734,
     "gfOptions": "Separate GF Menu",
     "menuItems": [
-      {"name": "Sushi Roll Combo", "price": 16.00},
-      {"name": "Pad Thai (GF)", "price": 14.00},
-      {"name": "Thai Curry (GF)", "price": 15.00},
-      {"name": "Sashimi", "price": 20.00},
-      {"name": "Spring Rolls (GF)", "price": 7.00}
+      {
+        "name": "Sushi Roll Combo",
+        "price": 16
+      },
+      {
+        "name": "Pad Thai (GF)",
+        "price": 14
+      },
+      {
+        "name": "Thai Curry (GF)",
+        "price": 15
+      },
+      {
+        "name": "Sashimi",
+        "price": 20
+      },
+      {
+        "name": "Spring Rolls (GF)",
+        "price": 7
+      }
     ],
     "doordash": true,
     "notes": "Separate wheat-free menu available! GF soy sauce provided. Great for mixed Thai and sushi cravings.",
@@ -903,11 +1521,26 @@
     "lng": -78.7801,
     "gfOptions": "GF Options Available",
     "menuItems": [
-      {"name": "Poke Bowl", "price": 14.00},
-      {"name": "Chirashi Bowl", "price": 22.00},
-      {"name": "Sushi Dinner", "price": 24.00},
-      {"name": "Sashimi Dinner", "price": 26.00},
-      {"name": "Nigiri (2 pc)", "price": 6.00}
+      {
+        "name": "Poke Bowl",
+        "price": 14
+      },
+      {
+        "name": "Chirashi Bowl",
+        "price": 22
+      },
+      {
+        "name": "Sushi Dinner",
+        "price": 24
+      },
+      {
+        "name": "Sashimi Dinner",
+        "price": 26
+      },
+      {
+        "name": "Nigiri (2 pc)",
+        "price": 6
+      }
     ],
     "doordash": true,
     "notes": "Family-owned for 30+ years! Freshest sushi in Triangle. Popular poke bowls. Ask about GF options.",
@@ -924,15 +1557,66 @@
     "lng": -78.7945,
     "gfOptions": "Mostly GF Menu",
     "menuItems": [
-      {"name": "Build Your Own Poke", "price": 13.99},
-      {"name": "Signature Poke Bowl", "price": 14.99},
-      {"name": "Tuna Poke", "price": 15.99},
-      {"name": "Salmon Poke", "price": 15.99},
-      {"name": "Tempura Shrimp Bowl", "price": 14.99}
+      {
+        "name": "Build Your Own Poke",
+        "price": 13.99
+      },
+      {
+        "name": "Signature Poke Bowl",
+        "price": 14.99
+      },
+      {
+        "name": "Tuna Poke",
+        "price": 15.99
+      },
+      {
+        "name": "Salmon Poke",
+        "price": 15.99
+      },
+      {
+        "name": "Tempura Shrimp Bowl",
+        "price": 14.99
+      }
     ],
     "doordash": true,
     "notes": "Poke-focused spot with lots of GF base options. Most items naturally GF. Spicy shoyu sauce available.",
     "website": "https://www.zestcary.com/",
     "doordashUrl": "https://www.doordash.com/store/zest-cary-26414223/"
+  },
+  {
+    "id": 46,
+    "name": "The Pit Authentic Barbecue",
+    "cuisine": "BBQ",
+    "address": "328 W Davie St, Raleigh, NC 27601",
+    "city": "Raleigh",
+    "lat": 35.7756,
+    "lng": -78.6441,
+    "gfOptions": "GF Menu Available",
+    "menuItems": [
+      {
+        "name": "Smoked Brisket (without sauce)",
+        "price": 16.99
+      },
+      {
+        "name": "Pulled Pork (without sauce)",
+        "price": 14.99
+      },
+      {
+        "name": "Smoked Chicken (without sauce)",
+        "price": 15.99
+      },
+      {
+        "name": "Cole Slaw",
+        "price": 4.99
+      },
+      {
+        "name": "Green Beans",
+        "price": 4.99
+      }
+    ],
+    "doordash": true,
+    "notes": "Meats are naturally gluten-free when ordered without sauce. Staff is knowledgeable about ingredients and can accommodate GF requests. Sauces contain gluten.",
+    "website": "https://thepit-raleigh.com",
+    "doordashUrl": "https://www.doordash.com/store/the-pit-authentic-barbecue-raleigh-25354/"
   }
 ]
