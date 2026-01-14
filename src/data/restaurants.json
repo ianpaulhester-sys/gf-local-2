@@ -1618,5 +1618,285 @@
     "notes": "Meats are naturally gluten-free when ordered without sauce. Staff is knowledgeable about ingredients and can accommodate GF requests. Sauces contain gluten.",
     "website": "https://thepit-raleigh.com",
     "doordashUrl": "https://www.doordash.com/store/the-pit-authentic-barbecue-raleigh-25354/"
+  },
+  {
+    "id": 47,
+    "name": "Taqueria La Vaquita",
+    "cuisine": "Mexican",
+    "address": "1205 Kildaire Farm Rd, Cary, NC 27511",
+    "city": "Cary",
+    "lat": 35.7513,
+    "lng": -78.7719,
+    "gfOptions": "Many naturally GF options, corn tortillas available",
+    "menuItems": [
+      {
+        "name": "Carnitas Tacos (corn tortillas)",
+        "price": 11.99
+      },
+      {
+        "name": "Carne Asada Bowl",
+        "price": 13.99
+      },
+      {
+        "name": "Guacamole with Corn Chips",
+        "price": 8.99
+      }
+    ],
+    "doordash": true,
+    "notes": "Staff knowledgeable about GF options, uses separate prep area for corn tortillas",
+    "website": "https://taqueriala vaquita.com",
+    "doordashUrl": "https://www.doordash.com/store/taqueria-la-vaquita-cary-123456"
+  },
+  {
+    "id": 48,
+    "name": "Chubby's Tacos",
+    "cuisine": "Mexican",
+    "address": "508 W Chatham St, Cary, NC 27511",
+    "city": "Cary",
+    "lat": 35.7915,
+    "lng": -78.7811,
+    "gfOptions": "GF menu available, corn tortillas and bowls",
+    "menuItems": [
+      {
+        "name": "Al Pastor Bowl",
+        "price": 12.5
+      },
+      {
+        "name": "Fish Tacos (corn tortillas)",
+        "price": 13.99
+      },
+      {
+        "name": "Mexican Street Corn",
+        "price": 6.99
+      }
+    ],
+    "doordash": true,
+    "notes": "Dedicated GF preparation area, very accommodating staff",
+    "website": "https://chubbystacos.com",
+    "doordashUrl": "https://www.doordash.com/store/chubbys-tacos-cary-789012"
+  },
+  {
+    "id": 49,
+    "name": "El Rodeo Mexican Restaurant",
+    "cuisine": "Mexican",
+    "address": "1411 Kildaire Farm Rd, Cary, NC 27511",
+    "city": "Cary",
+    "lat": 35.7466,
+    "lng": -78.7678,
+    "gfOptions": "GF options marked on menu, corn tortillas available",
+    "menuItems": [
+      {
+        "name": "Pollo a la Plancha",
+        "price": 15.99
+      },
+      {
+        "name": "Taco Salad Bowl (no shell)",
+        "price": 11.99
+      },
+      {
+        "name": "Fajitas (corn tortillas)",
+        "price": 17.99
+      }
+    ],
+    "doordash": false,
+    "notes": "Traditional Mexican restaurant with good GF awareness, accommodating kitchen",
+    "website": "https://elrodeocary.com",
+    "doordashUrl": null
+  },
+  {
+    "id": 50,
+    "name": "Los Tres Magueyes",
+    "cuisine": "Mexican",
+    "address": "6810 McCrimmon Pkwy, Cary, NC 27519",
+    "city": "Cary",
+    "lat": 35.8234,
+    "lng": -78.7811,
+    "gfOptions": "Several naturally GF dishes, corn tortillas",
+    "menuItems": [
+      {
+        "name": "Ceviche de Camarón",
+        "price": 14.99
+      },
+      {
+        "name": "Molcajete Mixto",
+        "price": 22.99
+      },
+      {
+        "name": "Tacos de Barbacoa",
+        "price": 12.99
+      }
+    ],
+    "doordash": true,
+    "notes": "Authentic Mexican cuisine with many naturally GF options",
+    "website": "https://lostresmagueyes.com",
+    "doordashUrl": "https://www.doordash.com/store/los-tres-magueyes-cary-345678"
+  },
+  {
+    "id": 51,
+    "name": "Carniceria y Taqueria Don Juan",
+    "cuisine": "Mexican",
+    "address": "1050 Walnut St, Cary, NC 27511",
+    "city": "Cary",
+    "lat": 35.7948,
+    "lng": -78.7817,
+    "gfOptions": "Traditional corn tortillas, many naturally GF options",
+    "menuItems": [
+      {
+        "name": "Lengua Tacos (corn tortillas)",
+        "price": 10.99
+      },
+      {
+        "name": "Pozole Soup",
+        "price": 12.99
+      },
+      {
+        "name": "Elote (Mexican Street Corn)",
+        "price": 4.99
+      }
+    ],
+    "doordash": false,
+    "notes": "Authentic taqueria with fresh corn tortillas made in-house",
+    "website": "https://donjuancary.com",
+    "doordashUrl": null
+  },
+  {
+    "id": 52,
+    "name": "Cocina 18",
+    "cuisine": "Mexican",
+    "address": "1509 E Millbrook Rd, Raleigh, NC 27609",
+    "city": "Raleigh",
+    "lat": 35.8144,
+    "lng": -78.6183,
+    "gfOptions": "GF menu available, separate prep procedures",
+    "menuItems": [
+      {
+        "name": "GF Fish Tacos",
+        "price": 15.99
+      },
+      {
+        "name": "Quinoa Power Bowl",
+        "price": 13.99
+      },
+      {
+        "name": "GF Tres Leches Cake",
+        "price": 7.99
+      }
+    ],
+    "doordash": true,
+    "notes": "Modern Mexican with dedicated GF menu and careful preparation",
+    "website": "https://cocina18.com",
+    "doordashUrl": "https://www.doordash.com/store/cocina-18-raleigh-901234"
+  },
+  {
+    "id": 53,
+    "name": "Guasaca Venezuelan Restaurant",
+    "cuisine": "Mexican",
+    "address": "2444 Wycliff Rd, Raleigh, NC 27607",
+    "city": "Raleigh",
+    "lat": 35.8031,
+    "lng": -78.6569,
+    "gfOptions": "Many naturally GF Venezuelan dishes",
+    "menuItems": [
+      {
+        "name": "Pabellón Criollo (GF)",
+        "price": 16.99
+      },
+      {
+        "name": "Grilled Chicken with Yuca",
+        "price": 14.99
+      },
+      {
+        "name": "Black Bean Soup",
+        "price": 8.99
+      }
+    ],
+    "doordash": true,
+    "notes": "Venezuelan cuisine with many naturally GF options, knowledgeable staff",
+    "website": "https://guasacaraleigh.com",
+    "doordashUrl": "https://www.doordash.com/store/guasaca-raleigh-567890"
+  },
+  {
+    "id": 54,
+    "name": "La Superior Supermercado y Taqueria",
+    "cuisine": "Mexican",
+    "address": "2540 Nowell Rd, Raleigh, NC 27603",
+    "city": "Raleigh",
+    "lat": 35.7234,
+    "lng": -78.5678,
+    "gfOptions": "Traditional corn tortillas, authentic preparation",
+    "menuItems": [
+      {
+        "name": "Carnitas Plate",
+        "price": 13.99
+      },
+      {
+        "name": "Chile Relleno",
+        "price": 11.99
+      },
+      {
+        "name": "Tamales (corn masa)",
+        "price": 9.99
+      }
+    ],
+    "doordash": false,
+    "notes": "Authentic Mexican market with taqueria, fresh corn tortillas daily",
+    "website": "https://lasuperior-raleigh.com",
+    "doordashUrl": null
+  },
+  {
+    "id": 55,
+    "name": "Mariscos El Charco",
+    "cuisine": "Mexican",
+    "address": "5450 Western Blvd, Raleigh, NC 27606",
+    "city": "Raleigh",
+    "lat": 35.7734,
+    "lng": -78.6789,
+    "gfOptions": "Seafood specialties, many naturally GF dishes",
+    "menuItems": [
+      {
+        "name": "Camarones a la Diabla",
+        "price": 18.99
+      },
+      {
+        "name": "Ceviche Mixto",
+        "price": 16.99
+      },
+      {
+        "name": "Aguachile Verde",
+        "price": 15.99
+      }
+    ],
+    "doordash": true,
+    "notes": "Specializes in Mexican seafood, naturally GF preparations",
+    "website": "https://mariscoscharco.com",
+    "doordashUrl": "https://www.doordash.com/store/mariscos-el-charco-234567"
+  },
+  {
+    "id": 56,
+    "name": "Taqueria El Toro",
+    "cuisine": "Mexican",
+    "address": "1905 S Miami Blvd, Durham, NC 27703",
+    "city": "Durham",
+    "lat": 35.9567,
+    "lng": -78.8234,
+    "gfOptions": "Corn tortillas available, many naturally GF options",
+    "menuItems": [
+      {
+        "name": "Carne Asada Tacos",
+        "price": 11.99
+      },
+      {
+        "name": "Pozole Rojo",
+        "price": 12.99
+      },
+      {
+        "name": "Chiles en Nogada",
+        "price": 17.99
+      }
+    ],
+    "doordash": true,
+    "notes": "Family-owned taqueria with traditional recipes and GF awareness",
+    "website": "https://taqueriaeltoro.com",
+    "doordashUrl": "https://www.doordash.com/store/taqueria-el-toro-durham-678901"
   }
 ]
