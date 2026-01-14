@@ -28,7 +28,7 @@ async function researchRestaurant() {
     console.log(`Details: ${requestDetails}`);
   }
 
-  const prompt = `You are helping find gluten-free friendly restaurants in the Raleigh/Cary/Durham, NC area.
+  const prompt = `You are helping find gluten-free friendly restaurants in North Carolina.
 
 A user has requested: "${requestValue}"
 Request type: ${requestType}
@@ -37,7 +37,7 @@ Additional details: ${requestDetails || 'None'}
 Please research and find ONE real restaurant that matches this request. The restaurant must:
 1. Be a real, currently operating restaurant
 2. Have genuine gluten-free options
-3. Be in the Raleigh, Cary, Durham, or nearby NC area
+3. IMPORTANT: If the user mentioned a specific city (like "in Cary" or "in Durham"), the restaurant MUST be in that exact city - not a nearby city
 
 Already in our database (do NOT suggest these): ${existingNames.slice(0, 30).join(', ')}
 
