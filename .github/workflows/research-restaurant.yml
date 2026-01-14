@@ -1,0 +1,51 @@
+name: Research Restaurant Request
+
+on:
+  repository_dispatch:
+    types: [netlify-form-submission]
+  workflow_dispatch:
+    inputs:
+      request_type:
+        description: 'Type of request (city, cuisine, dietary, other)'
+        required: true
+        default: 'cuisine'
+      request_value:
+        description: 'What to research (e.g., "Sushi in Cary")'
+        required: true
+      request_details:
+        description: 'Additional details'
+        required: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install @anthropic-ai/sdk
+
+      - name: Research and add restaurant
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REQUEST_TYPE: ${{ github.event.client_payload.request_type || github.event.inputs.request_type }}
+          REQUEST_VALUE: ${{ github.event.client_payload.request_value || github.event.inputs.request_value }}
+          REQUEST_DETAILS: ${{ github.event.client_payload.request_details || github.event.inputs.request_details }}
+        run: node scripts/research-restaurant.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GF Local Bot"
+          git add src/data/restaurants.json
+          git diff --staged --quiet || git commit -m "Add new restaurant from user request: ${{ github.event.client_payload.request_value || github.event.inputs.request_value }}"
+          git push
